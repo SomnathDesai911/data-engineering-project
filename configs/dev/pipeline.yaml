@@ -1,0 +1,13 @@
+env: dev
+
+catalog:
+  name: dev_catalog
+
+storage:
+  account: devadlsgen2
+
+spark:
+  shuffle_partitions: 50
+
+alerts:
+  email: somnathdesai911@gmail.com
