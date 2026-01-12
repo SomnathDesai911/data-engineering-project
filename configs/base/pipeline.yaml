@@ -1,0 +1,7 @@
+schemas:
+  bronze: bronze
+  silver: silver
+  gold: gold
+
+features:
+  enable_audit: true
